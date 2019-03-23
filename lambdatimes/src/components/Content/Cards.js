@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Card from './Card';
 
 import "../../CSS/index.css"
+
 const Cards = props => {
   return (
     <div className="cards-container" >
